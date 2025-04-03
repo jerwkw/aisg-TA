@@ -22,7 +22,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/jerwkw/AISG-TA.git
-    cd google-books-finder
+    cd aisg-TA/google-books-finder
     ```
 
 2.  **Install dependencies:**
